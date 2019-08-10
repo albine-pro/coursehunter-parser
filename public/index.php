@@ -51,7 +51,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
           </legend>
            <div class="form-group">
              <label for="url"></label>
-             <input type="url" name="url" id="url" class="form-control text-center" placeholder="" pattern="https://coursehunters.net/.+?" required>
+             <input type="url" name="url" id="url" class="form-control text-center" placeholder="" pattern="https://coursehunter.net/.+?" required>
            </div>
            <button type="submit" class="w-100"></button>
         </form>        
